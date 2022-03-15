@@ -28,6 +28,8 @@ $O(mn)$ 比较暴力.
 $O(\log n)$的时间内实现区间修改和区间查询.
 ## Chtholly Tree
 线性复杂度实现区间更改、区间求和、取kth元素等操作，利用`std::set<Node>`实现，重点操作是暴力的`split(ll pos)`.
+## 分块
+$O(\sqrt{n})$暴力.
 # String
 ## KMP
 利用Paritial Matched Table解决匹配时的浪费（待更新常数优化）
