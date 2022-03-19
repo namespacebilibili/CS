@@ -34,6 +34,7 @@ $O(\sqrt{n})$暴力.
 Bineary Search Tree
 ### Scapegoat Tree
 use `flatten()` and `rebuild` to balance BST.
+### Heap
 # String
 ## KMP
 利用Paritial Matched Table解决匹配时的浪费（待更新常数优化）
